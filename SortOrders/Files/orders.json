@@ -1,0 +1,92 @@
+[
+  {
+    "OrderId": "ORD001",
+    "Weight": 2.5,
+    "District": "Central",
+    "DeliveryTime": "2023-10-01 14:30:00"
+  },
+  {
+    "OrderId": "ORD002",
+    "Weight": 1.0,
+    "District": "North",
+    "DeliveryTime": "2023-10-02 09:00:00"
+  },
+  {
+    "OrderId": "ORD003",
+    "Weight": 5.0,
+    "District": "South",
+    "DeliveryTime": "2023-10-03 16:45:00"
+  },
+  {
+    "OrderId": "ORD004",
+    "Weight": 3.2,
+    "District": "East",
+    "DeliveryTime": "2023-10-04 11:15:00"
+  },
+  {
+    "OrderId": "ORD005",
+    "Weight": 4.8,
+    "District": "West",
+    "DeliveryTime": "2023-10-05 08:30:00"
+  },
+  {
+    "OrderId": "ORD006",
+    "Weight": 3.5,
+    "District": "Central",
+    "DeliveryTime": "2023-10-06 12:00:00"
+  },
+  {
+    "OrderId": "ORD007",
+    "Weight": 2.0,
+    "District": "North",
+    "DeliveryTime": "2023-10-07 10:30:00"
+  },
+  {
+    "OrderId": "ORD008",
+    "Weight": 6.0,
+    "District": "South",
+    "DeliveryTime": "2023-10-08 15:00:00"
+  },
+  {
+    "OrderId": "ORD009",
+    "Weight": 4.1,
+    "District": "East",
+    "DeliveryTime": "2023-10-09 09:45:00"
+  },
+  {
+    "OrderId": "ORD010",
+    "Weight": 2.8,
+    "District": "West",
+    "DeliveryTime": "2023-10-10 13:20:00"
+  },
+  {
+    "OrderId": "ORD011",
+    "Weight": 5.2,
+    "District": "Central",
+    "DeliveryTime": "2023-10-11 11:00:00"
+  },
+  {
+    "OrderId": "ORD012",
+    "Weight": 1.5,
+    "District": "North",
+    "DeliveryTime": "2023-10-12 14:15:00"
+  },
+  {
+    "OrderId": "ORD013",
+    "Weight": 7.3,
+    "District": "South",
+    "DeliveryTime": "2023-10-13 16:30:00"
+  },
+  {
+    "OrderId": "ORD014",
+    "Weight": 3.6,
+    "District": "East",
+    "DeliveryTime": "2023-10-14 08:00:00"
+  },
+  {
+    "OrderId": "ORD015",
+    "Weight": 4.0,
+    "District": "West",
+    "DeliveryTime": "2023-10-15 17:45:00"
+  }
+]
